@@ -18,6 +18,7 @@ namespace MinirechnerTFO
             int Zahl2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine(Addiere(Zahl1,Zahl2));
+            Console.WriteLine(Subtrahiere(Zahl1, Zahl2));
 
             Console.ReadKey();
             
@@ -25,6 +26,11 @@ namespace MinirechnerTFO
         static int Addiere(int Zahl1, int Zahl2)
         {
             int erg = Zahl1 + Zahl2;
+            return (erg);
+        }
+        static int Subtrahiere(int Zahl1, int Zahl2)
+        {
+            int erg = Zahl1 - Zahl2;
             return (erg);
         }
      
