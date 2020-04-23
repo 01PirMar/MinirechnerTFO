@@ -19,7 +19,7 @@ namespace MinirechnerTFO
 
             Console.WriteLine(Addiere(Zahl1,Zahl2));
             Console.WriteLine(Subtrahiere(Zahl1, Zahl2));
-            Console.WriteLine(Multiplizieren(Zahl1, Zahl2));
+            Console.WriteLine(Division(Zahl1, Zahl2));
 
             Console.ReadKey();
             
@@ -39,7 +39,11 @@ namespace MinirechnerTFO
             int erg = Zahl1 * Zahl2;
             return (erg);
         }
-
+        static int Division(int Zahl1, int Zahl2)
+        {
+            int erg = Zahl1 / Zahl2;
+            return (erg);
+        }
      
     }
 }
