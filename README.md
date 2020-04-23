@@ -1,1 +1,2 @@
 # MinirechnerTFO
+Marjan Pircher
