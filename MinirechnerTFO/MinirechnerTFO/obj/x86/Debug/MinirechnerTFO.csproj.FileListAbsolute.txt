@@ -1,0 +1,4 @@
+C:\Users\marja\Desktop\Minirechner\MinirechnerTFO\MinirechnerTFO\bin\Debug\MinirechnerTFO.exe
+C:\Users\marja\Desktop\Minirechner\MinirechnerTFO\MinirechnerTFO\bin\Debug\MinirechnerTFO.pdb
+C:\Users\marja\Desktop\Minirechner\MinirechnerTFO\MinirechnerTFO\obj\x86\Debug\MinirechnerTFO.exe
+C:\Users\marja\Desktop\Minirechner\MinirechnerTFO\MinirechnerTFO\obj\x86\Debug\MinirechnerTFO.pdb
